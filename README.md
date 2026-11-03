@@ -25,19 +25,17 @@
 
   <img src="./assets/divider.svg" width="100%" alt="" />
 
-  <!-- Simple Clean Tech Stack -->
+  <!-- Structured Tech Stack Bento Grid -->
   <h3>Tech Stack</h3>
 
   <p align="center">
-    <b>Backend:</b> &nbsp;<code>Java</code> &nbsp;<code>Spring Boot</code> &nbsp;<code>Spring Security</code> &nbsp;<code>REST APIs</code> &nbsp;<code>Hibernate / JPA</code><br />
-    <b>Data &amp; Messaging:</b> &nbsp;<code>PostgreSQL</code> &nbsp;<code>MySQL</code> &nbsp;<code>MongoDB</code> &nbsp;<code>Redis</code> &nbsp;<code>Apache Kafka</code> &nbsp;<code>Flyway</code><br />
-    <b>Cloud &amp; DevOps:</b> &nbsp;<code>Docker</code> &nbsp;<code>AWS</code> &nbsp;<code>Nginx</code> &nbsp;<code>Git</code> &nbsp;<code>Prometheus &amp; k6</code>
+    <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack: Backend & Security, Databases & Persistence, Caching & Event Streaming, Cloud, DevOps & Testing" />
   </p>
 
   <img src="./assets/divider.svg" width="100%" alt="" />
 
-  <!-- Featured Backend Projects Bento Table -->
-  <h3>Featured Backend Systems</h3>
+  <!-- Featured Projects Bento Table -->
+  <h3>Featured Projects</h3>
 
 </div>
 
