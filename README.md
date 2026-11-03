@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Hero Banner -->
-  <a href="https://pablo483.github.io/">
+  <!-- Animated Hero Banner (non-clickable) -->
+  <a id="hero-banner">
     <img src="./assets/hero-banner.svg" width="100%" alt="Sudarshan GC — Software Engineer (Java Backend)" />
   </a>
 
@@ -23,16 +23,18 @@
     </a>
   </p>
 
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <a id="divider-top"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 
-  <!-- Structured Tech Stack Bento Grid -->
+  <!-- Structured Tech Stack Bento Grid (non-clickable) -->
   <h3>Tech Stack</h3>
 
   <p align="center">
-    <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack: Backend & Security, Databases & Persistence, Caching & Event Streaming, Cloud, DevOps & Testing" />
+    <a id="tech-stack">
+      <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack: Backend & Security, Databases & Persistence, Caching & Event Streaming, Cloud, DevOps & Testing" />
+    </a>
   </p>
 
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <a id="divider-projects"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 
   <!-- Featured Projects Bento Table -->
   <h3>Featured Projects</h3>
