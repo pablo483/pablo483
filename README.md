@@ -15,7 +15,7 @@
     <a href="https://pablo483.github.io/Sudarshan_GC_CV.pdf">
       <img src="./assets/card-cv.svg" height="44" alt="Resume / CV: View 1-Page PDF" />
     </a>&nbsp;
-    <a href="https://www.linkedin.com/in/sudarshan-g-c-8323a5442/">
+    <a href="https://www.linkedin.com/in/sudarshan-gc-8323a5442/">
       <img src="./assets/card-linkedin.svg" height="44" alt="LinkedIn: Sudarshan GC" />
     </a>&nbsp;
     <a href="mailto:sudarshangc580@gmail.com">
