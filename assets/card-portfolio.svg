@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 245 64" width="200" height="52" role="img" aria-label="Live Portfolio: pablo483.github.io">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 64" width="222" height="64" role="img" aria-label="Live Portfolio: pablo483.github.io">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0B1325" />
       <stop offset="100%" stop-color="#111C35" />
     </linearGradient>
   </defs>
-  <rect x="1.5" y="1.5" width="242" height="61" rx="13" fill="url(#bg)" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="1.5" />
-  <rect x="14" y="14" width="36" height="36" rx="9" fill="#38BDF8" fill-opacity="0.16" />
+  <rect x="1.5" y="1.5" width="219" height="61" rx="13" fill="url(#bg)" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="1.5" />
+  <rect x="13" y="14" width="36" height="36" rx="9" fill="#38BDF8" fill-opacity="0.16" />
   <!-- Globe Icon -->
-  <circle cx="32" cy="32" r="10" fill="none" stroke="#38BDF8" stroke-width="1.8" />
-  <ellipse cx="32" cy="32" rx="4.5" ry="10" fill="none" stroke="#38BDF8" stroke-width="1.5" />
-  <line x1="22" y1="32" x2="42" y2="32" stroke="#38BDF8" stroke-width="1.5" />
+  <circle cx="31" cy="32" r="10" fill="none" stroke="#38BDF8" stroke-width="1.8" />
+  <ellipse cx="31" cy="32" rx="4.5" ry="10" fill="none" stroke="#38BDF8" stroke-width="1.5" />
+  <line x1="21" y1="32" x2="41" y2="32" stroke="#38BDF8" stroke-width="1.5" />
 
-  <text x="61" y="26" font-family="'Segoe UI', -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9" fill="#38BDF8">
+  <text x="58" y="26" font-family="'Segoe UI', -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9" fill="#38BDF8">
     LIVE PORTFOLIO
   </text>
-  <text x="61" y="44" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13.5" font-weight="700" fill="#F8FAFC">
+  <text x="58" y="44" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13.5" font-weight="700" fill="#F8FAFC">
     pablo483.github.io &#8599;
   </text>
 </svg>

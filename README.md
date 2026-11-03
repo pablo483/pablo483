@@ -7,19 +7,22 @@
 
   <br />
 
-  <!-- Top Prominent Contact & Portfolio Cards -->
+  <!-- Top Prominent Contact, Portfolio & Resume Cards -->
   <p align="center">
     <a href="https://pablo483.github.io/">
-      <img src="./assets/card-portfolio.svg" height="48" alt="Live Portfolio: pablo483.github.io" />
+      <img src="./assets/card-portfolio.svg" height="44" alt="Live Portfolio: pablo483.github.io" />
+    </a>&nbsp;
+    <a href="https://pablo483.github.io/Sudarshan_GC_CV.pdf">
+      <img src="./assets/card-cv.svg" height="44" alt="Resume / CV: View 1-Page PDF" />
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/sudarshan-g-c-8323a5442/">
-      <img src="./assets/card-linkedin.svg" height="48" alt="LinkedIn: Sudarshan GC" />
+      <img src="./assets/card-linkedin.svg" height="44" alt="LinkedIn: Sudarshan GC" />
     </a>&nbsp;
     <a href="mailto:sudarshangc580@gmail.com">
-      <img src="./assets/card-email.svg" height="48" alt="Email: sudarshangc580@gmail.com" />
+      <img src="./assets/card-email.svg" height="44" alt="Email: sudarshangc580@gmail.com" />
     </a>&nbsp;
     <a href="https://github.com/pablo483?tab=repositories">
-      <img src="./assets/card-github.svg" height="48" alt="GitHub: @pablo483" />
+      <img src="./assets/card-github.svg" height="44" alt="GitHub: @pablo483" />
     </a>
   </p>
 
