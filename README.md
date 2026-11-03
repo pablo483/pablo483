@@ -2,6 +2,7 @@
 
 **Software Engineer (Java Backend)** based in **Nepal** with **1 year of professional experience** designing and building reliable REST APIs and backend systems with **Java** and **Spring Boot**.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pablo483.github.io-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://pablo483.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarshan_GC-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-g-c-8323a5442/)
 [![Email](https://img.shields.io/badge/Email-sudarshangc580%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sudarshangc580@gmail.com)
 
@@ -54,5 +55,6 @@
 
 ### Connect With Me
 
+- **Portfolio:** [pablo483.github.io](https://pablo483.github.io/)
 - **LinkedIn:** [linkedin.com/in/sudarshan-g-c-8323a5442](https://www.linkedin.com/in/sudarshan-g-c-8323a5442/)
 - **Email:** [sudarshangc580@gmail.com](mailto:sudarshangc580@gmail.com)
