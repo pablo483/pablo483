@@ -2,7 +2,7 @@
 
   <!-- Animated Hero Banner -->
   <a href="https://pablo483.github.io/">
-    <img src="./assets/hero-banner.svg" width="100%" alt="Hi, I'm Sudarshan GC — Software Engineer (Java Backend)" />
+    <img src="./assets/hero-banner.svg" width="100%" alt="Sudarshan GC — Software Engineer (Java Backend)" />
   </a>
 
   <br />
@@ -23,48 +23,21 @@
     </a>
   </p>
 
-  <p align="center">
-    <sub>
-      🌐 <a href="https://pablo483.github.io/"><b>pablo483.github.io</b></a>
-      &nbsp;&nbsp;•&nbsp;&nbsp;
-      💼 <a href="https://www.linkedin.com/in/sudarshan-g-c-8323a5442/"><b>LinkedIn (Sudarshan GC)</b></a>
-      &nbsp;&nbsp;•&nbsp;&nbsp;
-      ✉️ Copy Email: <code>sudarshangc580@gmail.com</code>
-    </sub>
-  </p>
-
   <img src="./assets/divider.svg" width="100%" alt="" />
 
-  <!-- Centered Tech Stack -->
-  <h3>⚡ Tech Stack &amp; Ecosystem</h3>
+  <!-- Simple Clean Tech Stack -->
+  <h3>Tech Stack</h3>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,mongodb,redis,kafka,docker,aws,nginx,git,githubactions,prometheus&perline=7" alt="Tech Stack Icons" />
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-    <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square" alt="REST APIs" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <br />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-    <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-    <img src="https://img.shields.io/badge/Bucket4j-0EA5E9?style=flat-square" alt="Bucket4j" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-    <img src="https://img.shields.io/badge/Grafana_k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+    <b>Backend:</b> &nbsp;<code>Java</code> &nbsp;<code>Spring Boot</code> &nbsp;<code>Spring Security</code> &nbsp;<code>REST APIs</code> &nbsp;<code>Hibernate / JPA</code><br />
+    <b>Data &amp; Messaging:</b> &nbsp;<code>PostgreSQL</code> &nbsp;<code>MySQL</code> &nbsp;<code>MongoDB</code> &nbsp;<code>Redis</code> &nbsp;<code>Apache Kafka</code> &nbsp;<code>Flyway</code><br />
+    <b>Cloud &amp; DevOps:</b> &nbsp;<code>Docker</code> &nbsp;<code>AWS</code> &nbsp;<code>Nginx</code> &nbsp;<code>Git</code> &nbsp;<code>Prometheus &amp; k6</code>
   </p>
 
   <img src="./assets/divider.svg" width="100%" alt="" />
 
   <!-- Featured Backend Projects Bento Table -->
-  <h3>🚀 Featured Backend Systems</h3>
+  <h3>Featured Backend Systems</h3>
 
 </div>
 
@@ -72,7 +45,7 @@
   <tr>
     <td colspan="2">
       <h4>
-        🏆 <a href="https://github.com/pablo483/Inventory-SAAS">Multi-Tenant Inventory Management SaaS</a>
+        <a href="https://github.com/pablo483/Inventory-SAAS">Multi-Tenant Inventory Management SaaS</a>
         &nbsp;<code>Flagship Architecture</code>
       </h4>
       <p>
@@ -88,7 +61,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛒 <a href="https://github.com/pablo483/Ecommerce_Cloud">Ecommerce_Cloud</a></h4>
+      <h4><a href="https://github.com/pablo483/Ecommerce_Cloud">Ecommerce_Cloud</a></h4>
       <p>
         Multi-vendor e-commerce REST API supporting <code>ADMIN</code>, <code>VENDOR</code>, and <code>USER</code> roles with <b>Cloudinary</b> multipart image uploads,
         paginated filtering/search, admin approval workflows, <b>Redis</b> caching, and daily <code>@Scheduled</code> low-stock vendor email alerts.
@@ -98,7 +71,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/pablo483/external-api-integration">external-api-integration</a></h4>
+      <h4><a href="https://github.com/pablo483/external-api-integration">external-api-integration</a></h4>
       <p>
         Event-driven third-party API gateway (Weather &amp; Currency) using reactive <code>WebClient</code>, <b>Redis</b> TTL read-through caching,
         and isolated asynchronous <b>Apache Kafka</b> audit event producer/consumer streams with manual offset commits.
@@ -110,7 +83,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/pablo483/online-quiz-backend">online-quiz-backend</a></h4>
+      <h4><a href="https://github.com/pablo483/online-quiz-backend">online-quiz-backend</a></h4>
       <p>
         Online quiz &amp; automatic grading API (<a href="https://github.com/pablo483/Online-Quiz-Frontend">Frontend Repo</a>) with hierarchical categories,
         JWT + UUID refresh tokens, and <code>UserAttemptLog</code> tracking that prevents duplicate wrong-option guesses.
@@ -120,7 +93,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🔐 <a href="https://github.com/pablo483/UserOnboarding-API-Cookie">UserOnboarding-API-Cookie</a></h4>
+      <h4><a href="https://github.com/pablo483/UserOnboarding-API-Cookie">UserOnboarding-API-Cookie</a></h4>
       <p>
         Security-focused onboarding service featuring email verification links, BCrypt hashing,
         <code>HttpOnly</code> <code>SameSite=Lax</code> cookie JWTs, and database-backed refresh token rotation to prevent replay attacks.
@@ -131,15 +104,3 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-  <p>
-    <sub>
-      Built &amp; maintained by <b>Sudarshan GC</b> •
-      <a href="https://pablo483.github.io/">Portfolio</a> •
-      <a href="https://www.linkedin.com/in/sudarshan-g-c-8323a5442/">LinkedIn</a> •
-      <a href="mailto:sudarshangc580@gmail.com">sudarshangc580@gmail.com</a>
-    </sub>
-  </p>
-</div>
