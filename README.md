@@ -44,14 +44,14 @@
 
 </div>
 
-### Frost & Sullivan
+### CAS Total Services
 **Dec 2025 – Present** · *Kathmandu, Nepal*  
 *(Joined as Intern &rarr; Retained &amp; Promoted to Software Engineer)*
 
 #### Software Engineer
 **Jun 2026 – Present**
 
-Continued full-time at Frost & Sullivan after completing the internship. Built Trade Finance banking forms and workflows on Newgen iBPS for commercial banking. Key work:
+Continued full-time at CAS Total Services after completing the internship. Built Trade Finance banking forms and workflows on Newgen iBPS for commercial banking. Key work:
 
 - **Trade Finance lifecycle** — built digital forms for Letters of Credit (LC issuance, amendments, cancellation, closure) and bills processing (lodgement, acceptance, realization)
 - **Form logic in Java & JS** — wrote field validations and conditional show/hide rules driven by LC types (Export LC vs. CAD), payment terms, and workflow stages
@@ -63,7 +63,7 @@ Continued full-time at Frost & Sullivan after completing the internship. Built T
 #### Software Engineering Intern
 **Dec 2025 – May 2026**
 
-Started as intern at Frost & Sullivan, building Loan Origination System (LOS) forms and credit appraisal workflows for SME lending on the Newgen iBPS platform. Key work:
+Started as intern at CAS Total Services, building Loan Origination System (LOS) forms and credit appraisal workflows for SME lending on the Newgen iBPS platform. Key work:
 
 - **SME loan origination screens** — built application and appraisal forms to capture borrower financials, collateral details, and credit scoring
 - **Validation logic** — wrote Java and JavaScript rules to verify eligibility thresholds and enforce mandatory documentation checks
