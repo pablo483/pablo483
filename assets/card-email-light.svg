@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 64" width="256" height="64" role="img" aria-label="Email: sudarshangc580@gmail.com">
+  <defs>
+    <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+    <filter id="shadowLight" x="-2%" y="-6%" width="104%" height="120%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#0F172A" flood-opacity="0.06" />
+    </filter>
+  </defs>
+  <rect x="1.5" y="1.5" width="253" height="61" rx="13" fill="url(#bgLight)" stroke="#E11D48" stroke-opacity="0.32" stroke-width="1.3" filter="url(#shadowLight)" />
+  <rect x="13" y="14" width="36" height="36" rx="9" fill="#FFE4E6" />
+  <!-- Envelope Icon -->
+  <rect x="21" y="24" width="20" height="15" rx="2.5" fill="none" stroke="#E11D48" stroke-width="1.8" />
+  <polyline points="21,25 31,33 41,25" fill="none" stroke="#E11D48" stroke-width="1.8" />
+
+  <text x="58" y="26" font-family="'Segoe UI', -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9" fill="#BE123C">
+    DIRECT EMAIL
+  </text>
+  <text x="58" y="43.5" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" font-weight="700" fill="#0F172A">
+    sudarshangc580@gmail.com
+  </text>
+</svg>

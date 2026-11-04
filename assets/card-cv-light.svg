@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186 64" width="186" height="64" role="img" aria-label="Resume / CV: View 1-Page PDF">
+  <defs>
+    <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+    <filter id="shadowLight" x="-2%" y="-6%" width="104%" height="120%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#0F172A" flood-opacity="0.06" />
+    </filter>
+  </defs>
+  <rect x="1.5" y="1.5" width="183" height="61" rx="13" fill="url(#bgLight)" stroke="#7C3AED" stroke-opacity="0.32" stroke-width="1.3" filter="url(#shadowLight)" />
+  <rect x="13" y="14" width="36" height="36" rx="9" fill="#F3E8FF" />
+  <!-- Document / CV Icon -->
+  <path d="M25,22 h9 l5,5 v15 a1.5,1.5 0 0 1 -1.5,1.5 h-12.5 a1.5,1.5 0 0 1 -1.5,-1.5 v-18.5 a1.5,1.5 0 0 1 1.5,-1.5 z" fill="none" stroke="#7C3AED" stroke-width="1.7" stroke-linejoin="round" />
+  <polyline points="34,22 34,27 39,27" fill="none" stroke="#7C3AED" stroke-width="1.6" stroke-linejoin="round" />
+  <line x1="27" y1="32" x2="35" y2="32" stroke="#7C3AED" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="27" y1="36.5" x2="35" y2="36.5" stroke="#7C3AED" stroke-width="1.5" stroke-linecap="round" />
+
+  <text x="58" y="26" font-family="'Segoe UI', -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9" fill="#6D28D9">
+    RESUME / CV
+  </text>
+  <text x="58" y="44" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13.5" font-weight="700" fill="#0F172A">
+    View PDF &#8599;
+  </text>
+</svg>

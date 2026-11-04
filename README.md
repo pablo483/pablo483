@@ -11,22 +11,42 @@
 
   <br />
 
-  <!-- Top Prominent Contact, Portfolio & Resume Cards -->
+  <!-- Top Prominent Contact, Portfolio & Resume Cards (Theme Adaptive: Light & Dark) -->
   <p align="center">
     <a href="https://pablo483.github.io/">
-      <img src="./assets/card-portfolio.svg" height="44" alt="Live Portfolio: pablo483.github.io" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/card-portfolio-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/card-portfolio-light.svg">
+        <img src="./assets/card-portfolio.svg" height="44" alt="Live Portfolio: pablo483.github.io" />
+      </picture>
     </a>&nbsp;
     <a href="https://pablo483.github.io/Sudarshan_GC_CV.pdf">
-      <img src="./assets/card-cv.svg" height="44" alt="Resume / CV: View 1-Page PDF" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/card-cv-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/card-cv-light.svg">
+        <img src="./assets/card-cv.svg" height="44" alt="Resume / CV: View 1-Page PDF" />
+      </picture>
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/sudarshan-gc-8323a5442/">
-      <img src="./assets/card-linkedin.svg" height="44" alt="LinkedIn: Sudarshan GC" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/card-linkedin-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/card-linkedin-light.svg">
+        <img src="./assets/card-linkedin.svg" height="44" alt="LinkedIn: Sudarshan GC" />
+      </picture>
     </a>&nbsp;
     <a href="mailto:sudarshangc580@gmail.com">
-      <img src="./assets/card-email.svg" height="44" alt="Email: sudarshangc580@gmail.com" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/card-email-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/card-email-light.svg">
+        <img src="./assets/card-email.svg" height="44" alt="Email: sudarshangc580@gmail.com" />
+      </picture>
     </a>&nbsp;
     <a href="https://github.com/pablo483?tab=repositories">
-      <img src="./assets/card-github.svg" height="44" alt="GitHub: @pablo483" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/card-github-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/card-github-light.svg">
+        <img src="./assets/card-github.svg" height="44" alt="GitHub: @pablo483" />
+      </picture>
     </a>
   </p>
 
