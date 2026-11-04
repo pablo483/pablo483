@@ -44,10 +44,14 @@
 
 </div>
 
-### Software Engineer — Frost & Sullivan
-**Jun 2026 – Present** · *Kathmandu, Nepal*
+### Frost & Sullivan
+**Dec 2025 – Present** · *Kathmandu, Nepal*  
+*(Joined as Intern &rarr; Retained &amp; Promoted to Software Engineer)*
 
-Promoted from intern to probation and full-time engineer. Built Trade Finance banking forms and workflows on Newgen iBPS for commercial banking. Key work:
+#### Software Engineer
+**Jun 2026 – Present**
+
+Continued full-time at Frost & Sullivan after completing the internship. Built Trade Finance banking forms and workflows on Newgen iBPS for commercial banking. Key work:
 
 - **Trade Finance lifecycle** — built digital forms for Letters of Credit (LC issuance, amendments, cancellation, closure) and bills processing (lodgement, acceptance, realization)
 - **Form logic in Java & JS** — wrote field validations and conditional show/hide rules driven by LC types (Export LC vs. CAD), payment terms, and workflow stages
@@ -56,12 +60,10 @@ Promoted from intern to probation and full-time engineer. Built Trade Finance ba
 - **SWIFT MT700 mapping** — mapped form fields to SWIFT message standards to enable automated, compliant message generation
 - **T24 Core Banking API integration** — connected forms with Temenos T24 REST APIs, debugging JSON payload mapping and resolving strict field lockouts
 
----
+#### Software Engineering Intern
+**Dec 2025 – May 2026**
 
-### Software Engineering Intern — Frost & Sullivan
-**Dec 2025 – May 2026** · *Kathmandu, Nepal*
-
-Built Loan Origination System (LOS) forms and credit appraisal workflows for SME lending on the Newgen iBPS platform. Key work:
+Started as intern at Frost & Sullivan, building Loan Origination System (LOS) forms and credit appraisal workflows for SME lending on the Newgen iBPS platform. Key work:
 
 - **SME loan origination screens** — built application and appraisal forms to capture borrower financials, collateral details, and credit scoring
 - **Validation logic** — wrote Java and JavaScript rules to verify eligibility thresholds and enforce mandatory documentation checks
