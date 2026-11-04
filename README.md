@@ -45,28 +45,28 @@
 </div>
 
 ### Software Engineer — Frost & Sullivan
-**Dec 2025 – Present** · *Kathmandu, Nepal*
+**Jun 2026 – Present** · *Kathmandu, Nepal*
 
-Hired full-time following internship. Built enterprise Trade Finance process automation and forms on Newgen iBPS for a commercial bank, covering the full lifecycle of Letters of Credit (LC) and documentary collections. Key work:
+Promoted from intern to probation and full-time engineer. Built Trade Finance banking forms and workflows on Newgen iBPS for commercial banking. Key work:
 
-- **Full-lifecycle LC & bills management** — digitized trade finance workflows across LC Issue, Amend, Cancel, Reinstate, and Close; bills handling (Lodge, Accept, Dishonor, Delink, Recover, Realise, Close); Cash Against Documents (CAD); FX Permit; and Inward Documentary Collection
-- **Dynamic form logic & validation** — wrote client and server validation logic in Java and JavaScript, driving dynamic field controls and show/hide logic based on LC type (Export LC vs Export CAD), payment terms, and workflow stages
-- **Automated banking calculations** — built dynamic banking calculations including tolerance, maximum credit amount, dynamic charges (flat vs percentage with rate-period conversions), and foreign exchange (FX) value conversions
-- **Maker-checker approval workflows** — developed enterprise approval workflows with customized workdesk routing (BTO/CTO Maker to RM to SWIFT), decision logging, and audit-trail approval tracking
-- **SWIFT message mapping** — mapped Newgen form fields to SWIFT message formats (e.g. MT700) and supported automated SWIFT message generation
-- **T24 Core Banking API integration** — integrated front-end forms with T24 Core Banking REST APIs, successfully mapping JSON payloads and debugging strict T24 "Bucket Errors" and NOCHANGE field lockouts during complex amendment and lodgement POST requests
+- **Trade Finance lifecycle** — built digital forms for Letters of Credit (LC issuance, amendments, cancellation, closure) and bills processing (lodgement, acceptance, realization)
+- **Form logic in Java & JS** — wrote field validations and conditional show/hide rules driven by LC types (Export LC vs. CAD), payment terms, and workflow stages
+- **Dynamic banking calculations** — automated calculations for tolerances, maximum credit amounts, dynamic charges (flat vs. percentage), and FX currency conversions
+- **Maker-checker workflows** — developed approval routing across banking desks (Maker to RM to SWIFT) with decision logging and audit trails
+- **SWIFT MT700 mapping** — mapped form fields to SWIFT message standards to enable automated, compliant message generation
+- **T24 Core Banking API integration** — connected forms with Temenos T24 REST APIs, debugging JSON payload mapping and resolving strict field lockouts
 
 ---
 
 ### Software Engineering Intern — Frost & Sullivan
-**Jun 2025 – Nov 2025** · *Kathmandu, Nepal*
+**Dec 2025 – May 2026** · *Kathmandu, Nepal*
 
-Built core Loan Origination System (LOS) forms and credit appraisal workflows for Small and Medium Enterprise (SME) lending on the Newgen iBPS platform. Key work:
+Built Loan Origination System (LOS) forms and credit appraisal workflows for SME lending on the Newgen iBPS platform. Key work:
 
-- **LOS SME lending screens** — built application and appraisal screens for SME credit facilities, capturing borrower financial profiles, collateral evaluations, and credit scoring inputs
-- **Validation logic & rules engine** — wrote Java and JavaScript form validations to ensure data consistency, enforce eligibility thresholds, and verify mandatory compliance documentation
-- **Multi-tiered approval workflows** — designed maker-checker workdesk routing across Loan Officers, Risk Managers, and Credit Committee sanctioning stages
-- **Audit tracking & document integration** — integrated document checklist verification, decision logging, and automated sanction letter generation
+- **SME loan origination screens** — built application and appraisal forms to capture borrower financials, collateral details, and credit scoring
+- **Validation logic** — wrote Java and JavaScript rules to verify eligibility thresholds and enforce mandatory documentation checks
+- **Approval workflows** — configured multi-level maker-checker routing across Loan Officers, Risk Managers, and Credit Committees
+- **Audit tracking & documents** — implemented document checklist verifications, decision audit trails, and automated sanction letter generation
 
 <div align="center">
 
