@@ -131,11 +131,11 @@
       y="168"
       text-anchor="middle"
       font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif"
-      font-size="19.5"
+      font-size="19"
       font-weight="600"
       fill="#38BDF8"
     >
-      Software Engineer (Java Backend)  •  1 Year Professional Experience
+      Software Engineer @ CAS Total Services  •  ~1 Year Experience
     </text>
 
     <!-- Centered Bio Lines -->
@@ -147,7 +147,7 @@
       font-size="15.5"
       fill="#CBD5E1"
     >
-      Based in Nepal — designing and building reliable REST APIs, multi-tenant SaaS backends,
+      Building enterprise Trade Finance workflows (Newgen iBPS &amp; Temenos T24 APIs) alongside
     </text>
     <text
       x="600"
@@ -157,7 +157,7 @@
       font-size="15.5"
       fill="#CBD5E1"
     >
-      Redis caching layers, and event-driven Apache Kafka systems with Java &amp; Spring Boot.
+      scalable Spring Boot REST APIs, Redis caching layers, and Apache Kafka event pipelines.
     </text>
 
     <!-- Centered Learning Strip -->
@@ -169,7 +169,7 @@
       font-size="13"
       fill="#94A3B8"
     >
-      &gt;_ Currently deepening: <tspan fill="#A5B4FC" font-weight="600">AWS Cloud Architecture</tspan> &amp; <tspan fill="#34D399" font-weight="600">Distributed System Design</tspan>
+      &gt;_ Currently exploring: <tspan fill="#A5B4FC" font-weight="600">Distributed Systems</tspan> &amp; <tspan fill="#34D399" font-weight="600">Cloud Deployment (AWS)</tspan>
     </text>
   </g>
 

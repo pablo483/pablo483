@@ -1,8 +1,12 @@
 <div align="center">
 
-  <!-- Animated Hero Banner (non-clickable) -->
+  <!-- Animated Hero Banner (Theme Adaptive: Light & Dark) -->
   <a id="hero-banner">
-    <img src="./assets/hero-banner.svg" width="100%" alt="Sudarshan GC — Software Engineer (Java Backend)" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/hero-banner-light.svg">
+      <img src="./assets/hero-banner.svg" width="100%" alt="Sudarshan GC — Software Engineer (Java Backend)" />
+    </picture>
   </a>
 
   <br />
@@ -28,12 +32,16 @@
 
   <a id="divider-top"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 
-  <!-- Structured Tech Stack Bento Grid (non-clickable) -->
+  <!-- Structured Tech Stack Bento Grid (Theme Adaptive: Light & Dark) -->
   <h3>Tech Stack</h3>
 
   <p align="center">
     <a id="tech-stack">
-      <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack: Backend & Security, Databases & Persistence, Caching & Event Streaming, Cloud, DevOps & Testing" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg">
+        <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack: Backend & Security, Databases & Persistence, Caching & Event Streaming, Cloud, DevOps & Testing" />
+      </picture>
     </a>
   </p>
 

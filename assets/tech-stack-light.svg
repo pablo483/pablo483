@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 212" width="100%" role="img" aria-label="Tech Stack: Backend, Databases, Caching and Messaging, Cloud and DevOps">
+  <defs>
+    <linearGradient id="cardBgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+    <filter id="cardShadowLight" x="-2%" y="-4%" width="104%" height="114%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#0F172A" flood-opacity="0.06" />
+    </filter>
+  </defs>
+
+  <!-- ==================== CARD 1: BACKEND & SECURITY ==================== -->
+  <rect x="2" y="2" width="440" height="98" rx="14" fill="url(#cardBgLight)" stroke="#0284C7" stroke-opacity="0.32" stroke-width="1.3" filter="url(#cardShadowLight)" />
+  <rect x="16" y="15" width="28" height="28" rx="7" fill="#E0F2FE" />
+  <!-- Server Layers Icon -->
+  <rect x="22" y="21" width="16" height="6" rx="1.5" fill="none" stroke="#0284C7" stroke-width="1.6" />
+  <rect x="22" y="31" width="16" height="6" rx="1.5" fill="none" stroke="#0284C7" stroke-width="1.6" />
+  <text x="54" y="33.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.9" fill="#0369A1">
+    BACKEND &amp; SECURITY
+  </text>
+
+  <!-- Card 1 Pills -->
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#0F172A" text-anchor="middle">
+    <rect x="16" y="55" width="76" height="30" rx="8" fill="#F0F9FF" stroke="#BAE6FD" stroke-width="1" />
+    <text x="54" y="74.5">Java 17+</text>
+
+    <rect x="98" y="55" width="94" height="30" rx="8" fill="#F0F9FF" stroke="#BAE6FD" stroke-width="1" />
+    <text x="145" y="74.5">Spring Boot</text>
+
+    <rect x="198" y="55" width="114" height="30" rx="8" fill="#F0F9FF" stroke="#BAE6FD" stroke-width="1" />
+    <text x="255" y="74.5">Spring Security</text>
+
+    <rect x="318" y="55" width="84" height="30" rx="8" fill="#F0F9FF" stroke="#BAE6FD" stroke-width="1" />
+    <text x="360" y="74.5">REST APIs</text>
+  </g>
+
+  <!-- ==================== CARD 2: DATABASES & PERSISTENCE ==================== -->
+  <rect x="458" y="2" width="440" height="98" rx="14" fill="url(#cardBgLight)" stroke="#6366F1" stroke-opacity="0.32" stroke-width="1.3" filter="url(#cardShadowLight)" />
+  <rect x="472" y="15" width="28" height="28" rx="7" fill="#EEF2FF" />
+  <!-- Database Cylinder Icon -->
+  <ellipse cx="486" cy="23" rx="7.5" ry="3" fill="none" stroke="#4F46E5" stroke-width="1.6" />
+  <path d="M478.5,23 v11 c0,1.7 3.4,3 7.5,3 s7.5,-1.3 7.5,-3 v-11" fill="none" stroke="#4F46E5" stroke-width="1.6" />
+  <path d="M478.5,28.5 c0,1.7 3.4,3 7.5,3 s7.5,-1.3 7.5,-3" fill="none" stroke="#4F46E5" stroke-width="1.4" />
+  <text x="510" y="33.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.9" fill="#4338CA">
+    DATABASES &amp; PERSISTENCE
+  </text>
+
+  <!-- Card 2 Pills -->
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#0F172A" text-anchor="middle">
+    <rect x="472" y="55" width="90" height="30" rx="8" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1" />
+    <text x="517" y="74.5">PostgreSQL</text>
+
+    <rect x="568" y="55" width="64" height="30" rx="8" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1" />
+    <text x="600" y="74.5">MySQL</text>
+
+    <rect x="638" y="55" width="78" height="30" rx="8" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1" />
+    <text x="677" y="74.5">MongoDB</text>
+
+    <rect x="722" y="55" width="52" height="30" rx="8" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1" />
+    <text x="748" y="74.5">JPA</text>
+
+    <rect x="780" y="55" width="66" height="30" rx="8" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1" />
+    <text x="813" y="74.5">Flyway</text>
+  </g>
+
+  <!-- ==================== CARD 3: CACHING & EVENT STREAMING ==================== -->
+  <rect x="2" y="112" width="440" height="98" rx="14" fill="url(#cardBgLight)" stroke="#059669" stroke-opacity="0.32" stroke-width="1.3" filter="url(#cardShadowLight)" />
+  <rect x="16" y="125" width="28" height="28" rx="7" fill="#ECFDF5" />
+  <!-- Lightning Bolt Icon -->
+  <polygon points="31,131 24,140 30,140 29,147 36,138 30,138" fill="none" stroke="#059669" stroke-width="1.6" stroke-linejoin="round" />
+  <text x="54" y="143.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.9" fill="#047857">
+    CACHING &amp; EVENT STREAMING
+  </text>
+
+  <!-- Card 3 Pills -->
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#0F172A" text-anchor="middle">
+    <rect x="16" y="165" width="64" height="30" rx="8" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1" />
+    <text x="48" y="184.5">Redis</text>
+
+    <rect x="86" y="165" width="104" height="30" rx="8" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1" />
+    <text x="138" y="184.5">Apache Kafka</text>
+
+    <rect x="196" y="165" width="80" height="30" rx="8" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1" />
+    <text x="236" y="184.5">Bucket4j</text>
+
+    <rect x="282" y="165" width="86" height="30" rx="8" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="1" />
+    <text x="325" y="184.5">WebClient</text>
+  </g>
+
+  <!-- ==================== CARD 4: CLOUD, DEVOPS & OBSERVABILITY ==================== -->
+  <rect x="458" y="112" width="440" height="98" rx="14" fill="url(#cardBgLight)" stroke="#2563EB" stroke-opacity="0.32" stroke-width="1.3" filter="url(#cardShadowLight)" />
+  <rect x="472" y="125" width="28" height="28" rx="7" fill="#EFF6FF" />
+  <!-- Cloud / Terminal Box Icon -->
+  <rect x="478.5" y="132" width="15" height="14" rx="2.5" fill="none" stroke="#2563EB" stroke-width="1.6" />
+  <polyline points="482,137 485,139.5 482,142" fill="none" stroke="#2563EB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="487" y1="142" x2="490.5" y2="142" stroke="#2563EB" stroke-width="1.5" stroke-linecap="round" />
+  <text x="510" y="143.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.9" fill="#1D4ED8">
+    CLOUD, DEVOPS &amp; TESTING
+  </text>
+
+  <!-- Card 4 Pills -->
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#0F172A" text-anchor="middle">
+    <rect x="472" y="165" width="68" height="30" rx="8" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1" />
+    <text x="506" y="184.5">Docker</text>
+
+    <rect x="546" y="165" width="54" height="30" rx="8" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1" />
+    <text x="573" y="184.5">AWS</text>
+
+    <rect x="606" y="165" width="62" height="30" rx="8" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1" />
+    <text x="637" y="184.5">Nginx</text>
+
+    <rect x="674" y="165" width="48" height="30" rx="8" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1" />
+    <text x="698" y="184.5">Git</text>
+
+    <rect x="728" y="165" width="124" height="30" rx="8" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1" />
+    <text x="790" y="184.5">Prometheus &amp; k6</text>
+  </g>
+</svg>
