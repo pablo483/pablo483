@@ -37,6 +37,39 @@
     </a>
   </p>
 
+  <a id="divider-experience"><img src="./assets/divider.svg" width="100%" alt="" /></a>
+
+  <!-- Professional Experience -->
+  <h3>Experience</h3>
+
+</div>
+
+### Software Engineer — Frost & Sullivan
+**Dec 2025 – Present** · *Kathmandu, Nepal*
+
+Hired full-time following internship. Built enterprise Trade Finance process automation and forms on Newgen iBPS for a commercial bank, covering the full lifecycle of Letters of Credit (LC) and documentary collections. Key work:
+
+- **Full-lifecycle LC & bills management** — digitized trade finance workflows across LC Issue, Amend, Cancel, Reinstate, and Close; bills handling (Lodge, Accept, Dishonor, Delink, Recover, Realise, Close); Cash Against Documents (CAD); FX Permit; and Inward Documentary Collection
+- **Dynamic form logic & validation** — wrote client and server validation logic in Java and JavaScript, driving dynamic field controls and show/hide logic based on LC type (Export LC vs Export CAD), payment terms, and workflow stages
+- **Automated banking calculations** — built dynamic banking calculations including tolerance, maximum credit amount, dynamic charges (flat vs percentage with rate-period conversions), and foreign exchange (FX) value conversions
+- **Maker-checker approval workflows** — developed enterprise approval workflows with customized workdesk routing (BTO/CTO Maker to RM to SWIFT), decision logging, and audit-trail approval tracking
+- **SWIFT message mapping** — mapped Newgen form fields to SWIFT message formats (e.g. MT700) and supported automated SWIFT message generation
+- **T24 Core Banking API integration** — integrated front-end forms with T24 Core Banking REST APIs, successfully mapping JSON payloads and debugging strict T24 "Bucket Errors" and NOCHANGE field lockouts during complex amendment and lodgement POST requests
+
+---
+
+### Software Engineering Intern — Frost & Sullivan
+**Jun 2025 – Nov 2025** · *Kathmandu, Nepal*
+
+Built core Loan Origination System (LOS) forms and credit appraisal workflows for Small and Medium Enterprise (SME) lending on the Newgen iBPS platform. Key work:
+
+- **LOS SME lending screens** — built application and appraisal screens for SME credit facilities, capturing borrower financial profiles, collateral evaluations, and credit scoring inputs
+- **Validation logic & rules engine** — wrote Java and JavaScript form validations to ensure data consistency, enforce eligibility thresholds, and verify mandatory compliance documentation
+- **Multi-tiered approval workflows** — designed maker-checker workdesk routing across Loan Officers, Risk Managers, and Credit Committee sanctioning stages
+- **Audit tracking & document integration** — integrated document checklist verification, decision logging, and automated sanction letter generation
+
+<div align="center">
+
   <a id="divider-projects"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 
   <!-- Featured Projects Bento Table -->
